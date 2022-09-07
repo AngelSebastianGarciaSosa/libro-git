@@ -1,2 +1,2 @@
 Chacon, S. and Straub, B. Pro Git. Apress
-eje 3
+eje.
